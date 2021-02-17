@@ -26,7 +26,6 @@ while True:
     os.system("osascript -e 'display notification \"Done!\"\'")
     #give delay to move the mouse
     time.sleep(5)
-    i = i + 1
 
 
 
