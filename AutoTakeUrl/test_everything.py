@@ -1,6 +1,5 @@
 import pyautogui #pip3 install pyautogui 
 import time
-import webbrowser
 import os
 import pyperclip #pip3 install pyperclip
 
@@ -35,6 +34,8 @@ while True: #Means while the condition is True / running, it will keep looping t
     #give delay to move the mouse
     time.sleep(5)
     #will keep looping again. Simple right? :)
+    
+    #DaffaXD <3
 
 
 
