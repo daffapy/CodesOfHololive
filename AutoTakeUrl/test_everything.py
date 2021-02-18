@@ -20,8 +20,13 @@ while True: #Means while the condition is True / running, it will keep looping t
     time.sleep(1)
     #show notification for debugging (optional) (MacOs only tho)
     os.system("osascript -e 'display notification \"Go!\"\'")
+    time.sleep(2)
+    #Hover over the title of the video that you want to take the thumbnail
+    
     #Auto right-click
     pyautogui.click(button='right')
+    #Click Copy Url
+    
     time.sleep(5)
     #making input based on the link that was copied
     inp = pyperclip.paste()
