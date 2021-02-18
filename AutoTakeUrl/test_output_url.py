@@ -4,7 +4,7 @@ import webbrowser
 import cv2
 import os
 
-filepath = 'repository_url.txt'
+filepath = 'url_collector.txt'
 time.sleep(2)
 
 webbrowser.open('http://www.get-youtube-thumbnail.com/')
