@@ -1,6 +1,5 @@
 import pyautogui #pip3 install pyautogui 
 import time
-import webbrowser
 import os
 import pyperclip #pip3 install pyperclip
 
