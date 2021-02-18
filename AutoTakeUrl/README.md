@@ -8,8 +8,8 @@ and for reminder again, i wrote my code in macOs thats why there is a bit differ
 command is equal to control
 
 macOs file path :
-os.path.expanduser(~/your_folder/your_file)
-example = os.path.expanduser(~/Documents/your_mom.png)
+os.path.expanduser( ~/your_folder/your_file)
+example = os.path.expanduser( ~/Documents/your_mom.png)
 
 Windows file path :
 C:\your_folder\your_file
