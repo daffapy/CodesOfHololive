@@ -1,4 +1,4 @@
-## GitHub acc Made for simping and sharing my knowledge to other simping bros, or Trolling non simp with my EpIC skillZ
+## GitHub acc made for simping and sharing my knowledge to other simping bros, or Trolling non simp with my EpIC skillZ
 for simping only, if you are not a simp dont try this.
 
 This is just a bored project, code may looks hacky thats why i need your help to improve my skill
