@@ -3,7 +3,7 @@ import time
 import os
 import pyperclip #pip3 install pyperclip
 
-#Loop until you die. Jk, keep looping until you press Ctrl + C (Windows) or Command + C (MacOs) (End Program)
+#Loop until you die. Jk, keep looping until you press Ctrl + C (End Program)
 while True: #Means while the condition is True / running, it will keep looping the action in this loop
     
     #info : you can change howmany times it will loop by changing 'True' with a variable
