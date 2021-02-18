@@ -16,7 +16,7 @@ while True: #Means while the condition is True / running, it will keep looping t
     #        i = i + 1  (adding the value of 'i' every time it loops, so it will end after i is equal to 5)
     # will loop for 5 times
 
-    #Accessing .txt files
+    #Accessing .txt files (make sure .txt is in the same directory/folder as the .py file)
     f = open('url_collector.txt','a')#a stands for append 
     time.sleep(1)
     #show notification for debugging (optional) (MacOs only tho)
