@@ -38,7 +38,7 @@ with open(filepath) as fp:
        click_get = pyautogui.locateCenterOnScreen(img_2,grayscale=True,confidence=.9)
        pyautogui.moveTo(click_get.x/2,click_get.y/2)#for non mac users you dont need to divide the x and y value by 2 (mac is making things harder)
        pyautogui.click()
-       #SAVE OR COPY IMAGE BY YOURSELF since im not using selenium,8 because im lazy.
+       #SAVE OR COPY IMAGE BY YOURSELF since im not using selenium, because im lazy (and dont wanna take care of xpath).
        #You can leave it again after copying or saving the file since code below will take care of that
        time.sleep(15)
        #scroll up
