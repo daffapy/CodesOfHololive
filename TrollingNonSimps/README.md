@@ -1,4 +1,5 @@
-### Run this code on your friend's pc/laptop if she/he doesnt fall into the rabbit hole to make him/her suffer eternal pain >:) (or do it on random person cuz i know you guys dont have any friends)
+### REMINDER: YOU MUST DOWNLOAD / INSTALL THE IMPORTANT LIBRARY FROM THE ASSETS FOLDER BEFORE USING THE CODES
+Run this code on your friend's pc/laptop if she/he doesnt fall into the rabbit hole to make him/her suffer eternal pain >:) (or do it on random person cuz i know you guys dont have any friends)
 
 let them all suffer
 
