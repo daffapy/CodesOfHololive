@@ -1,8 +1,8 @@
 [Documentation + Installation OpenCV](https://pypi.org/project/opencv-python/)<br/>
 [Documentation + Installation PyAutoGUI](https://pypi.org/project/PyAutoGUI/)<br/>
 [Documentation + Installation Pillow (for pyautogui)](https://pypi.org/project/Pillow/)<br/>
-[Documentation + Installation pynput](https://pypi.org/project/pynput/)
-[Documentation + Installation wheel](https://pypi.org/project/wheel/)
+[Documentation + Installation pynput](https://pypi.org/project/pynput/)<br/>
+[Documentation + Installation wheel](https://pypi.org/project/wheel/)<br/>
 
 pip3 install webbrowser<br/>
 pip3 install time<br/>
