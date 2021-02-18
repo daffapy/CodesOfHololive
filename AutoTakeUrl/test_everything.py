@@ -3,6 +3,12 @@ import time
 import os
 import pyperclip #pip3 install pyperclip
 
+#Purpose: automating getting the links from every video by just hovering over them and keep the links in your file for the next step.
+
+#WHAT IS AUTOMATED : right-clicking ,  Pasting link and write it on your .txt file , giving delay so you can use your mouse to hover over the title. 
+
+#WHAT IS NOT AUTOMATED : mouse-hovering over the title of the video, copying url
+
 #Loop until you die. Jk, keep looping until you press Ctrl + C (End Program)
 while True: #Means while the condition is True / running, it will keep looping the action in this loop
     
