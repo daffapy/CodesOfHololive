@@ -2,7 +2,7 @@
 [Documentation + Installation PyAutoGUI](https://pypi.org/project/PyAutoGUI/)<br/>
 [Documentation + Installation Pillow (for pyautogui)](https://pypi.org/project/Pillow/)<br/>
 [Documentation + Installation pynput](https://pypi.org/project/pynput/)
-
+[Documentation + Installation wheel](https://pypi.org/project/wheel/)
 
 pip3 install webbrowser<br/>
 pip3 install time<br/>
