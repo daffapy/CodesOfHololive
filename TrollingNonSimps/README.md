@@ -2,6 +2,6 @@
 
 let them all suffer
 
-*dont try this on yourself or else you will lose all of your braincells, i've warned you. 
+*dont try this on yourself or else you will feel pain that is if you are not "M" , i've warned you. 
 
 
