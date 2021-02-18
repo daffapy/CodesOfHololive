@@ -4,6 +4,12 @@ import webbrowser
 import cv2
 import os
 
+#Purpose: getting the data/link from your previous .txt files to turn it into a thumbnail
+
+#WHAT IS AUTOMATED: scrolling, opening files, opening websites, finding & clicking buttons, writing the links on the website, auto delete previous links, adding delay
+
+#WHAT IS NOT AUTOMATED: Saving / Copying thumbnail (do it by yourself, its ez enough don't be lazy ;))
+
 #your previous .txt files that contains the links
 filepath = 'url_collector.txt'
 time.sleep(2)
