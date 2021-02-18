@@ -27,7 +27,7 @@ with open(filepath) as fp:
            #Clicking the search bar (use YOUR OWN path of the file, dont follow my path if you dont have same path/directory)
            img = os.path.expanduser('~/Documents/search_bar_url.png')
            click_search = pyautogui.locateCenterOnScreen(img,grayscale=True,confidence=.9)
-           pyautogui.moveTo(click_search.x/2,click_search.y/2)
+           pyautogui.moveTo(click_search.x/2,click_search.y/2)#for non mac users you dont need to divide the x and y value by 2 (mac is making things harder)
            pyautogui.click()
        time.sleep(1)
        #write
@@ -36,7 +36,7 @@ with open(filepath) as fp:
        #Getting the thumbnail (use YOUR OWN path of the file, dont follow my path if you dont have same path/directory)
        img_2 = os.path.expanduser('~/Documents/get_thumbnail.png')
        click_get = pyautogui.locateCenterOnScreen(img_2,grayscale=True,confidence=.9)
-       pyautogui.moveTo(click_get.x/2,click_get.y/2)
+       pyautogui.moveTo(click_get.x/2,click_get.y/2)#for non mac users you dont need to divide the x and y value by 2 (mac is making things harder)
        pyautogui.click()
        #SAVE OR COPY IMAGE BY YOURSELF since im not using selenium,8 because im lazy.
        #You can leave it again after copying or saving the file since code below will take care of that
@@ -47,7 +47,7 @@ with open(filepath) as fp:
        #delete the previous links (use YOUR OWN path of the file, dont follow my path if you dont have same path/directory)
        used_bar = os.path.expanduser('~/Documents/used_search_bar.png')
        delete_search = pyautogui.locateCenterOnScreen(used_bar,grayscale=True,confidence=.9)
-       pyautogui.moveTo(delete_search.x/2,delete_search.y/2)
+       pyautogui.moveTo(delete_search.x/2,delete_search.y/2)#for non mac users you dont need to divide the x and y value by 2 (mac is making things harder)
        pyautogui.click()
        time.sleep(1)
        #Selecting previous link
