@@ -8,10 +8,10 @@ from pynput.keyboard import Listener , Key
 def on_press(key):
     if key == Key.space: #if 'space' was pressed,
         pyautogui.typewrite('peko') #then write 'peko' after it
-        #example : a -> a peko (adding peko automatically)
+        #example : pain -> pain peko (adding peko automatically)
     elif key == Key.backspace: #if you try to delete it,
         pyautogui.typewrite('peko')#it will write more 'peko' hahahaha get rekt peko....
-        #example : a peko -> a pek -> a pekpeko (adding peko automatically therefore you cant delete the peko madness)
+        #example : pain peko -> pain pek -> pain pekpeko (adding peko automatically therefore you cant delete the peko madness)
 
 #To monitor the keyboard
 with Listener(on_press=on_press) as listener:
