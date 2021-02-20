@@ -1,6 +1,9 @@
 from PIL import Image
 import os
 
+#Purpose: Making an ASCII Art of your waifu to get her attention (fuckin pathetic)
+#run this code on your terminal, and voila an ASCII Art of your waifu's image is made.
+
 # ascii characters used to build the output text (you can add more if you want) (the priority starts from left side)
 ASCII_CHARS = ["@", "#", "s", "%", "?", "*", "+", ";", ":", ",", ".","o","d","h","y","m","/","`","-"]
 
