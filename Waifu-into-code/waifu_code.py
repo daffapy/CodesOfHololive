@@ -57,4 +57,4 @@ def main(new_width=200):
 # run program
 main()
 #Author:
-print('By : @DaffaXD')
+print('\nBy : @DaffaXD')
