@@ -9,6 +9,5 @@ I wrote it mostly in python, so you need a python compiler to run the codes.
 
 That's it keep simping till you're winning.
 
-
-![profile_1](https://user-images.githubusercontent.com/79232562/108494963-c2b4d500-72da-11eb-96b2-e32cb90e3a96.png)
+![profile_3](https://user-images.githubusercontent.com/79232562/109376547-c9a1a000-78f7-11eb-8cdf-352f2a81c2f2.jpg)
 
