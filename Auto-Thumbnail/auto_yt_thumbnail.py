@@ -41,6 +41,7 @@ def collectLinks():
 
     for i in elements:
         if 'videos' in i:
+            #if there is a "videos" tag in the links then we dont care because we only take the "watch" url
             continue
         elif "watch" in i:
             f.write(i)
