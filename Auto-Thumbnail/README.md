@@ -6,3 +6,5 @@ IMPORTANT NOTES : SAVE AND COPY THE IMAGE BY YOURLSELF SINCE ITS IMPOSSIBLE TO D
 Other than that, it's fully automated from getting url to getting the thumbnails, 
 
 "We Programmers are stupid, we are lazy to do something, but not lazy enough to code hard sh** in order to automate everything"
+-
+-> DaffaXD
